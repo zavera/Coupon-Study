@@ -21,7 +21,7 @@ This analysis aims to determine which factors make a driver more likely to accep
 
 The complete analysis, including code and visualizations, can be viewed in this Jupyter Notebook:
 
-[https://nbviewer.org/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/prompt-2.ipynb](https://nbviewer.org/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/prompt-2.ipynb)
+https://github.com/zavera/Coupon-Study/blob/main/prompt.ipynb
 
 ## Findings
 
