@@ -8,9 +8,8 @@ whether the user would accept the coupon.
 
 ## Overview
 
-The goal is to identify differences between customers who accepted coupons and those who did not,
+The goal is to identify attributes that distinguish between customers who accepted coupons and those who did not,
 utilizing visualizations and probability distributions.
-This analysis aims to determine which factors make a driver more likely to accept a coupon once it is delivered.
 
 ## Files
 
@@ -32,6 +31,12 @@ driver is likely to use the coupon if the passenger is not a kid . On the other 
 Restaurant<20 type coupon are motivated by standard meal times ,weather conditions and destination of a non-urgent
 type . This pattern implies that different coupon type has maximum usability under very different conditions.This
 data can be leveraged by restaurants to expand their client base.
+
+## Next Steps
+
+Overlapping attributes can be analyzed by studying acceptance rate of a different type of coupon. For eg, acceptance rate
+of a cheap restaurant coupon can be determined for subset of drivers who are likely to also use a bar coupon. This data can  be
+useful for businesses that can be classified as both a bar and a cheap restaurant. 
 
 ## Author
 
